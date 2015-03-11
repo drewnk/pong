@@ -5,8 +5,12 @@ Welcome to my Pygame version of the classic Pong! This game was created using Py
 
 This was one of my first attempts at coding with Pygame. Unlike my Asteroids program, this doesn't use complex structures or vector calculus.
 
-Controls:
-A - Player1 paddle UP       Up Arrow - Player2 paddle UP            D - Reduce ball speed
-Z - Player1 paddle DOWN     Down Arrow - Player2 paddle DOWN        F - Increase ball speed
+Controls:<br>
+A - Player1 paddle UP<br>
+Z - Player1 paddle DOWN<br>
+Up Arrow - Player2 paddle UP<br>
+Down Arrow - Player2 paddle DOWN<br>
+D - Reduce ball speed<br>
+F - Increase ball speed
 
 Enjoy!
